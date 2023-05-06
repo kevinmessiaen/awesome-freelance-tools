@@ -44,7 +44,6 @@ This section lists platforms where freelancers can find work opportunities. Thes
 | ⭐️ [Contra](https://contra.com/?userType=independent)       | Any                       | Worldwide<sup>1 - 3</sup>            |
 | [LinkedIn](https://www.linkedin.com/)                       | Any                       | Worldwide<sup>1</sup>                |
 | [Malt](https://www.malt.uk/)                                | Daily rates               | 🇫🇷🇬🇧🇧🇪🇩🇪🇪🇸🇳🇱🇨🇭🇦🇪🇩🇰 |
-| [stackoverflow](https://stackoverflow.co/company/work-here) | Any                       | Worldwide<sup>1</sup>                |
 | [Upwork](https://www.upwork.com/)<sup>2</sup>               | Hourly rates, fixed price | Worldwide<sup>1</sup>                |
 | ⭐ **Your own website!**                                     | Any                       | Worldwide                            |
 
